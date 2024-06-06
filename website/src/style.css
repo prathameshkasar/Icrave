@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .section-space-md {
+    padding: 100px 0;
+  }
+  
+  .bg-gray {
+    background-color: #f8f9fa;
+  }
+  
+  .banner-left-content h2 {
+    font-size: 2.5rem;
+  }
+  
+  .banner-left-content p {
+    font-size: 1.2rem;
+  }
+  
+  .bg-primary {
+    background-color: #007bff !important;
+  }
+  
+  .text-primary {
+    color: #007bff !important;
+  }
+  
